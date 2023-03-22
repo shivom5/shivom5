@@ -9,21 +9,21 @@
  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width = "50%" height= "270" align = "right"> 
  
 </br> </br>
- [![Followers](https://img.shields.io/github/followers/musarraf207)](#)
- [![Stars](https://img.shields.io/github/stars/musarraf207?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
-![Profile views](https://gpvc.arturio.dev/musarraf207)
+ [![Followers](https://img.shields.io/github/followers/shivom5)](#)
+ [![Stars](https://img.shields.io/github/stars/shivom5?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
+![Profile views](https://gpvc.arturio.dev/shivom5)
 - 💎 I’m currently Aspiring `Technical Support Engineering`
 
 - 💬 Ask me about `Database, OS, Linux, DSA, JS, HTML, CSS.`
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/108dbvppceLWEET1g15iXErmRUGAfOCku/view?usp=sharing">Musarraf's Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/13c_kgIKeUPCzROxV5vTo3p5ZUWUjv-2Z/view?usp=sharing">Shivom's Resume</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://musarraf207.github.io/">Musarraf's Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://shivom5.github.io/">Shivom's Portfolio</a>
 
-- 📮 Connect With Me On <a href="https://www.linkedin.com/in/musarraf-raza-292983201/">LinkedIn</a>
+- 📮 Connect With Me On <a href="https://www.linkedin.com/in/shivom-shiv-716523191/">LinkedIn</a>
 
 
-- 📨 Email ID : **musarraf207@gmail.com**
+- 📨 Email ID : **shivomshiv1@gmail.com**
 
 </div>
 
@@ -72,10 +72,10 @@
 
 ## Trophy & Stats :
 
-| [![trophy](https://github-profile-trophy.vercel.app/?username=musarraf207)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musarraf207&layout=compact)](https://github.com/musarraf207/github-readme-stats) |
+| [![trophy](https://github-profile-trophy.vercel.app/?username=shivom5)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivom5&layout=compact)](https://github.com/shivom5/github-readme-stats) |
 | :---: | :---: |
 
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=musarraf207&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=musarraf207&theme=dark&border_radius=4)](https://git.io/streak-stats) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivom5&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=shivom5&theme=dark&border_radius=4)](https://git.io/streak-stats) |
 | :---: | :---: |
 
