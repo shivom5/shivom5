@@ -70,12 +70,12 @@
 
 <!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
 
-<!-- ## Trophy & Stats :
+ ## Trophy & Stats :
 
 | [![trophy](https://github-profile-trophy.vercel.app/?username=shivom5)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivom5&layout=compact)](https://github.com/shivom5/github-readme-stats) |
 | :---: | :---: |
 
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivom5&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=shivom5&theme=dark&border_radius=4)](https://git.io/streak-stats) |
-| :---: | :---: | -->
+| :---: | :---: |
 
