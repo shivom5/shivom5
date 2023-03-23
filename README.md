@@ -48,7 +48,7 @@
 
 </br>
 
-### 🧰 Customer Service Skill's
+<!-- ### 🧰 Customer Service Skill's
 
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4144/4144704.png"></code>
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"></code>
@@ -65,7 +65,7 @@
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/7179/7179055.png"></code>
 
 
-</br>
+</br> -->
 
 
 <!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
