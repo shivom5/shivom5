@@ -42,7 +42,7 @@
 
 ### 🧰 Customer Service Skill's
 
-![TECHNICAL SUPPORT](https://img.shields.io/badge/Technical%20support%20-blue?style=for-the-badge&logo=technicalsupport&logoColor=white) ![EFFECTIVE LISTENING](https://img.shields.io/badge/EFFECTIVE%20LISTENING%20-green?style=for-the-badge&logo=EFFECTIVELISTENING&logoColor=white) ![TROUBLESHOOT](https://img.shields.io/badge/TROUBLESHOOT%20-grey?style=for-the-badge&logo=Troubleshoot&logoColor=white) ![ADAPTABILITY](https://img.shields.io/badge/ADAPTABILITY%20-yellow?style=for-the-badge&logo=Adaptability&logoColor=white) ![CRITICAL THINKING](https://img.shields.io/badge/Critical%20Thinking%20-F5C6EC?style=for-the-badge&logo=CriticalThinking&logoColor=white)
+![TECHNICAL SUPPORT](https://img.shields.io/badge/Problem Solving Skills%20support%20-blue?style=for-the-badge&logo=technicalsupport&logoColor=white) ![EFFECTIVE LISTENING](https://img.shields.io/badge/EFFECTIVE%20LISTENING%20-green?style=for-the-badge&logo=EFFECTIVELISTENING&logoColor=white) ![TROUBLESHOOT](https://img.shields.io/badge/TROUBLESHOOT%20-grey?style=for-the-badge&logo=Troubleshoot&logoColor=white) ![ADAPTABILITY](https://img.shields.io/badge/ADAPTABILITY%20-yellow?style=for-the-badge&logo=Adaptability&logoColor=white) ![CRITICAL THINKING](https://img.shields.io/badge/Critical%20Thinking%20-F5C6EC?style=for-the-badge&logo=CriticalThinking&logoColor=white)
 </br>
 
 ### 🗄️ Soft Skill's
